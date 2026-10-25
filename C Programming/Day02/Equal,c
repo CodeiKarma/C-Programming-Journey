@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+    
+    int a,b;
+    a = 67;
+    b = 33;
+    printf("Both number are equal: %d and %d is : %d",a,b,a==b?a:b);
+    return 0;
+}
